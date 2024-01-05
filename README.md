@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/5f515a6593b6a521055b9.jpg" alt="PUBLIC FILE STORE 24 BOT Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  PUBLIC FILE STORE 24 BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+PUBLIC+FILE+STORE+24+BOT-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Sunrises_24!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+SUNRISES+HARSHA+24;Because+He+Public+The+Paid+Repo;Thank+You!)
@@ -29,8 +29,8 @@
 - `API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
 - `BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
 - `BOT_USERNAME` : Your Bot Username Without @
-- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/I36_OTWvT2w)
-- `CDB_URI` : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/I36_OTWvT2w)
+- `DB_URI` : Mongodb Database Url For Main Bot 
+- `CDB_URI` : Mongodb Database Url For Clone Bot 
 - `ADMINS` : It mean Admin/Owner Id For Broadcasting Message.
 - `LOG_CHANNEL` : Log channel id start with -100xxxxxx
 - `BIN_CHANNEL` : Bin channel id start with -100xxxxxx
