@@ -94,9 +94,9 @@ class Var(object):
     FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
     HAS_SSL=bool(getenv('HAS_SSL',False))
     if HAS_SSL:
-        URL = "https://publicfilestorelink24bot-46b9e5af78a1.herokuapp.com"
+        URL = "https://publicfilestorelink24bot-46b9e5af78a1.herokuapp.com/"
     else:
-        URL = "https://publicfilestorelink24bot-46b9e5af78a1.herokuapp.com"
+        URL = "https://publicfilestorelink24bot-46b9e5af78a1.herokuapp.com/"
 
 
 
