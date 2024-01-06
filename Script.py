@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ +└ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ┘+└sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ┘+├ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ┤+  ᢵᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+    START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 𝐌𝐚𝐰𝐚 {} ❤️,𝐌𝐲 𝐍𝐚𝐦𝐞 {},𝐈 𝐀𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 + 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐒𝐭𝐫𝐞𝐚𝐦 /𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 + 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐀𝐧𝐝 𝐁𝐞𝐬𝐭 𝐔𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞💥⚡</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -15,7 +15,7 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/vj_botz)</b>""" 
+Jᴏɪɴ [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/Sunrises24BotUpdates)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -33,9 +33,9 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},【ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ +├ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ┤+  ᢵᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ
+    CLONE_START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 𝐌𝐚𝐰𝐚 {}❤️,𝐌𝐲 𝐍𝐚𝐦𝐞 {},𝐈 𝐀𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 + 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐒𝐭𝐫𝐞𝐚𝐦 /𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 + 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐀𝐧𝐝 𝐁𝐞𝐬𝐭 𝐔𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 
-ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ᴛʜᴇɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ ғʀᴏᴍ ᴍʏ <a href=https://t.me/vj_botz>ᴘᴀʀᴇɴᴛ</a></b>"""
+𝐈𝐟 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐞𝐧 𝐂𝐫𝐞𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐂𝐥𝐨𝐧𝐞 𝐁𝐨𝐭 𝐅𝐫𝐨𝐦 𝐌𝐲 <a href=https://t.me/Sunrises24BotUpdates>𝐏𝐚𝐫𝐞𝐧𝐭</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
