@@ -30,15 +30,15 @@ def is_enabled(value, default):
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
-API_ID = int(environ.get("API_ID", ""))
-API_HASH = environ.get("API_HASH", "")
-ADMINS = int(environ.get("ADMINS", ""))
+API_ID = int(environ.get("API_ID", "10811400"))
+API_HASH = environ.get("API_HASH", "191bf5ae7a6c39771e7b13cf4ffd1279")
+ADMINS = int(environ.get("ADMINS", "6469754522"))
 
 # Database Information
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
-CDB_NAME = environ.get("CDB_NAME", "clonevjbotz")
+CDB_NAME = environ.get("CDB_NAME", "Sunrises24Bots")
 DB_URI = environ.get("DB_URI", "")
-DB_NAME = environ.get("DB_NAME", "vjbotz")
+DB_NAME = environ.get("DB_NAME", "Harsha24Bots")
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -46,8 +46,8 @@ DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
-BOT_USERNAME = environ.get("BOT_USERNAME", "") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
+BOT_USERNAME = environ.get("BOT_USERNAME", "PUBLICFILESTORE24BOT") # your bot username without @
+PICS = (environ.get('PICS', 'https://graph.org/file/8632772ac4e8f4ac7981a.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
