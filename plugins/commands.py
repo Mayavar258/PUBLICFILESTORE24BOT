@@ -226,7 +226,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                         InlineKeyboardButton('🚀 𝐅𝐀𝐒𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 / 𝐖𝐀𝐓𝐂𝐇 𝐎𝐍𝐋𝐈𝐍𝐄🖥️', callback_data=f'generate_stream_link:{file_id}')
+                         InlineKeyboardButton('🚀 Fast Download / Watch Online 🖥️', callback_data=f'generate_stream_link:{file_id}')
                      ]
                     ]
                 )
