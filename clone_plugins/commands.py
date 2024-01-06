@@ -1,6 +1,5 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 import os
 import logging
@@ -27,9 +26,8 @@ mongo_db = mongo_client["cloned_vjbotz"]
 
 logger = logging.getLogger(__name__)
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 def get_size(size):
     """Get size in readable format"""
