@@ -1,6 +1,5 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 import os
 import logging
@@ -24,9 +23,8 @@ logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 
 def get_size(size):
@@ -40,17 +38,15 @@ def get_size(size):
         size /= 1024.0
     return "%.2f %s" % (size, units[i])
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 async def delete_after_delay(message: Message, delay):
     await asyncio.sleep(AUTO_DELETE_TIME)
     await message.delete()
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ0
+# Don't Remove Credit Tg - @Sunrises24BotUpdates
+# Ask Doubt on telegram @Sunrises_24
 
 
 @Client.on_message(filters.command("start") & filters.incoming)
@@ -60,15 +56,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 💥', url='https://t.me/Sunrises_24')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢', url='https://t.me/Sunrises24BotUpdates'),
+            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/sunriseseditsoffical6')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
+            InlineKeyboardButton('𝐂𝐑𝐄𝐀𝐓𝐄 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐂𝐋𝐎𝐍𝐄 𝐁𝐎𝐓 🤖', callback_data='clone')
             ],[
-            InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('𝐇𝐄𝐋𝐏 🌟', callback_data='help'),
+            InlineKeyboardButton('𝐀𝐁𝐎𝐔𝐓 🧑🏻‍💻', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         me2 = (await client.get_me()).mention
@@ -230,7 +226,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                         InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}')
+                         InlineKeyboardButton('🚀 𝐅𝐀𝐒𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 / 𝐖𝐀𝐓𝐂𝐇 𝐎𝐍𝐋𝐈𝐍𝐄🖥️', callback_data=f'generate_stream_link:{file_id}')
                      ]
                     ]
                 )
@@ -316,8 +312,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.message.delete()
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔒 Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('𝐇𝐎𝐌𝐄 🏠', callback_data='start'),
+            InlineKeyboardButton('𝐂𝐋𝐎𝐒𝐄 ❌', callback_data='close_data')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -338,15 +334,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 💥', url='https://t.me/Sunrises_24')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/sunriseseditsoffical6'),
+            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢', url='https://t.me/Sunrises24BotUpdates')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
+            InlineKeyboardButton('𝐂𝐑𝐄𝐀𝐓𝐄 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐂𝐋𝐎𝐍𝐄 𝐁𝐎𝐓 🤖', callback_data='clone')
             ],[
-            InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('𝐇𝐄𝐋𝐏 🌟', callback_data='help'),
+            InlineKeyboardButton('𝐀𝐁𝐎𝐔𝐓 🧑🏻‍💻', callback_data='about')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -368,8 +364,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "clone":
         buttons = [[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔒 Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('𝐇𝐎𝐌𝐄 🏠', callback_data='start'),
+            InlineKeyboardButton('𝐂𝐋𝐎𝐒𝐄 ❌', callback_data='close_data')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -389,8 +385,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔒 Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('𝐇𝐎𝐌𝐄 🏠', callback_data='start'),
+            InlineKeyboardButton('𝐂𝐋𝐎𝐒𝐄 ❌', callback_data='close_data')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -434,15 +430,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 text=f"•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ꜰᴏʀ ɪᴅ #{user_id} \n•• ᴜꜱᴇʀɴᴀᴍᴇ : {username} \n\n•• ᖴᎥᒪᗴ Nᗩᗰᗴ : {fileName}",
                 quote=True,
                 disable_web_page_preview=True,
-                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 Fast Download 🚀", url=download),  # we download Link
-                                                    InlineKeyboardButton('🖥️ Watch online 🖥️', url=stream)]])  # web stream Link
+                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 𝐅𝐀𝐒𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 🚀", url=download),  # we download Link
+                                                    InlineKeyboardButton('🖥️ 𝐖𝐀𝐓𝐂𝐇 𝐎𝐍𝐋𝐈𝐍𝐄 🖥️', url=stream)]])  # web stream Link
             )
             await query.message.reply_text(
                 text="•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ☠︎⚔",
                 quote=True,
                 disable_web_page_preview=True,
-                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 Fast Download 🚀", url=download),  # we download Link
-                                                    InlineKeyboardButton('🖥️ Watch online 🖥️', url=stream)]])  # web stream Link
+                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 𝐅𝐀𝐒𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 🚀", url=download),  # we download Link
+                                                    InlineKeyboardButton('🖥️ 𝐖𝐀𝐓𝐂𝐇 𝐎𝐍𝐋𝐈𝐍𝐄 🖥️', url=stream)]])  # web stream Link
             )
         except Exception as e:
             print(e)  # print the error message
