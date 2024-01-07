@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
 
 
 import re
@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
 
 
 id_pattern = re.compile(r'^.\d+$')
@@ -21,7 +21,7 @@ def is_enabled(value, default):
     else:
         return default
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
       
 # Owner Information
 API_ID = int(environ.get("API_ID", "1522127"))
@@ -34,12 +34,12 @@ CDB_NAME = environ.get("CDB_NAME", "maya")
 DB_URI = environ.get("DB_URI", "mongodb+srv://mayan:mayan@mayavar.4ujjgia.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = environ.get("DB_NAME", "mayavar")
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
 
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "6294042089:AAGRVfK3-scO5DLufuKBcuaCltk9Tb8tUvI")
 BOT_USERNAME = environ.get("BOT_USERNAME", "MN_Filestorebot") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/8632772ac4e8f4ac7981a.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://telegra.ph/file/35361a86b7ff20497ee27.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
@@ -49,7 +49,7 @@ AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Second
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002125151670"))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002126415310')).split()]
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", None)
@@ -59,7 +59,7 @@ BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
 
 # File Stream Config
 class Var(object):
@@ -88,4 +88,4 @@ class Var(object):
 
 
 
-# Don't Remove Credit Tg - @Sunrises_24
+# Don't Remove Credit Tg - @good_nation
