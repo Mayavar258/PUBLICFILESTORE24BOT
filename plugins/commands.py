@@ -56,10 +56,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 💥', url='https://t.me/Sunrises_24')
+            InlineKeyboardButton('𝐎𝐖𝐍𝐄𝐑 💥', url='https://t.me/TgButterfly')
             ],[
-            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢', url='https://t.me/Sunrises24BotUpdates'),
-            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/sunriseseditsoffical6')
+            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄'𝐒 𝐆𝐑𝐎𝐔𝐏 🍿', url='https://t.me/TAMILNEWMOVIE_TEAM'),
+            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/good_nation')
             ],[
             InlineKeyboardButton('𝐂𝐑𝐄𝐀𝐓𝐄 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐂𝐋𝐎𝐍𝐄 𝐁𝐎𝐓 🤖', callback_data='clone')
             ],[
