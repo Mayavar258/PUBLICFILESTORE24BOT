@@ -15,7 +15,7 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/Sunrises24BotUpdates)</b>""" 
+Jᴏɪɴ [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/good_nation)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -49,11 +49,11 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Sunrises_24>𝐇𝐀𝐑𝐒𝐇𝐀 𝟐𝟒 ✨</a>
+💥 OWNER: <a href=https://t.me/TgButterfly> TG x Butterfly ✨</a>
 
-🍿 ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/sunriseseditsoffical6>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒™🍿</a>
+🍿 ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/good_nation>Butterfly 🦋🍿</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/Sunrises24BotUpdates>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒™📢</a></b>
+📢 SUPPORT : <a https://t.me/TAMILNEWMOVIETEAM>Butterfly 🦋📢</a></b>
 """
 
     CABOUT_TXT = """<b>𝐇𝐢 𝐈 𝐀𝐦 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐈𝐭 𝐌𝐞𝐚𝐧𝐬 𝐀𝐧𝐲 𝐔𝐬𝐞𝐫 𝐂𝐚𝐧 𝐒𝐞𝐭 𝐇𝐢𝐬 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐀𝐧𝐝 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞.
