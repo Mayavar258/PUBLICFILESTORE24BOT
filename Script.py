@@ -6,20 +6,12 @@
 class script(object):
     START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 𝐌𝐚𝐰𝐚 {} ❤️,𝐈 𝐀𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 + 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐒𝐭𝐫𝐞𝐚𝐦 /𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 + 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐀𝐧𝐝 𝐁𝐞𝐬𝐭 𝐔𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞💥⚡</b>"""
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
     
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
 
 Jᴏɪɴ [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/good_nation)</b>""" 
-
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
@@ -29,17 +21,9 @@ Jᴏɪɴ [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.m
 
 Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
     CLONE_START_TXT = """<b>𝐇𝐞𝐥𝐥𝐨 𝐌𝐚𝐰𝐚 {}❤️,𝐈 𝐀𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 + 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐒𝐭𝐫𝐞𝐚𝐦 /𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 + 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐀𝐧𝐝 𝐁𝐞𝐬𝐭 𝐔𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
 
 𝐈𝐟 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐡𝐢𝐬 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐞𝐧 𝐂𝐫𝐞𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐂𝐥𝐨𝐧𝐞 𝐁𝐨𝐭 𝐅𝐫𝐨𝐦 𝐌𝐲 <a href=https://t.me/TgButterfly>𝐏𝐚𝐫𝐞𝐧𝐭</a></b>"""
-
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
     ABOUT_TXT = """<b>𝐇𝐢 𝐈 𝐀𝐦 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭 𝐖𝐢𝐭𝐡 𝐂𝐥𝐨𝐧𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 + 𝐂𝐮𝐬𝐭𝐨𝐦 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐈𝐭 𝐌𝐞𝐚𝐧𝐬 𝐀𝐧𝐲 𝐔𝐬𝐞𝐫 𝐂𝐚𝐧 𝐒𝐞𝐭 𝐇𝐢𝐬 𝐔𝐑𝐋 𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫 𝐀𝐧𝐝 𝐀𝐮𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞.
 
