@@ -23,8 +23,6 @@ logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
 
-# Don't Remove Credit Tg - @Sunrises24BotUpdates
-# Ask Doubt on telegram @Sunrises_24
 
 
 def get_size(size):
@@ -334,10 +332,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 💥', url='https://t.me/Sunrises_24')
+            InlineKeyboardButton('𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 💥', url='https://t.me/TgButterfly')
             ],[
-            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/sunriseseditsoffical6'),
-            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢', url='https://t.me/Sunrises24BotUpdates')
+            InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎞️', url='https://t.me/TAMILNEWMOVIETEAM'),
+            InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢', url='https://t.me/good_nation')
             ],[
             InlineKeyboardButton('𝐂𝐑𝐄𝐀𝐓𝐄 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐂𝐋𝐎𝐍𝐄 𝐁𝐎𝐓 🤖', callback_data='clone')
             ],[
